@@ -32,7 +32,7 @@ Student_Details.append(CGPA)
 print("Student Details :", Student_Details)
 
 
-# # Ques4
+#Ques4
 Marks = []
 for i in range(5):
     print("Enter Marks", i + 1, ": ", end="")
