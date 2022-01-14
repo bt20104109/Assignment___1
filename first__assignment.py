@@ -1,4 +1,4 @@
- Ques1
+# Ques1
 num1 = int(input("Enter First Number : "))
 num2 = int(input("Enter Second Number : "))
 num3 = int(input("Enter Third Number : "))
@@ -41,8 +41,7 @@ for i in range(5):
 Marks.sort()  # Sorting the marks list
 print("Sorted Order Of Marks : ", Marks)
 
-
-# # Ques 5
+# Ques 5
 Color = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 Color.remove('Black')
 print("Part a :", Color)
